@@ -1,4 +1,4 @@
-### Slack app for ticketing system
+### Slack Ticketing System
 
 Optimise your workflow with *Slack API* and *Google Apps Scripts* to save yourself from tasks overload
 
