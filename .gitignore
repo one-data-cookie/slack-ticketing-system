@@ -5,6 +5,7 @@
 !.gitignore
 !code_anonymised.js
 !README.md
+!LICENSE
 
 # ...even if they are in subdirectories
 !*/
